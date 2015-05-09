@@ -9,8 +9,6 @@
   "vendor": {
     "name": "bower-rails generated vendor assets",
     "dependencies": {
-      "pixi.min.js.map" : "https://raw.githubusercontent.com/GoodBoyDigital/pixi.js/master/bin/pixi.min.js.map",
-      "pixi.min.js"     : "https://raw.githubusercontent.com/GoodBoyDigital/pixi.js/master/bin/pixi.min.js"
     }
   }
 }
